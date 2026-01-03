@@ -1,6 +1,6 @@
 # 🎧 Spotify Insights — Personal Music Analytics
 
-[![Tool - Python](https://img.shields.io/badge/Tool-Python-blue)]() [![Notebook - Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]() [![API - Spotify](https://img.shields.io/badge/API-Spotify-green)]()
+[![Tool - Python](https://img.shields.io/badge/Tool-PowerBI-yellow)]() [![Notebook - Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]() [![API - Spotify](https://img.shields.io/badge/API-Spotify-green)]()
 
 A reproducible analytics project that extracts, transforms, and visualizes Spotify listening data to surface personal and cohort-level music insights. The repository includes code and notebooks for data extraction (Spotify Web API), feature engineering (audio features, listening sessions), exploratory analysis, and dashboard-ready outputs.
 
