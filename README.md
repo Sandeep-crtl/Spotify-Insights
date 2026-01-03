@@ -168,4 +168,4 @@ Contributions, issues, and feature requests are welcome:
 ---
 
 ## Screenshot
-![App Screenshot](docs/screenshots/spotify_insights_example.png)
+![App Screenshot](https://github.com/Sandeep-crtl/Spotify-Insights/blob/main/Spotify-Insights.png)
